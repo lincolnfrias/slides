@@ -86,4 +86,4 @@ Quando há acúmulo de vantagens (na família, em uma cidade, em uma empresa), e
 ---
 
 World Wealth & Income Database
-<font size="5">(Thomas Piketty)</font>
+<img src="imagens/wid.png" width="400" height="250">
