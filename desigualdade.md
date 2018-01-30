@@ -6,7 +6,7 @@ Lincoln Frias
 
 ### A rua do dinheiro
 
-[www.gapminder.org/dollar-street](www.gapminder.org/dollar-street)
+[www.gapminder.org/dollar-street](http://www.gapminder.org/dollar-street)
 
  <img src="imagens/dollar_street.jpg" width="400" height="200">
 
@@ -86,5 +86,5 @@ Quando há acúmulo de vantagens (na família, em uma cidade, em uma empresa), e
 ---
 
 World Wealth & Income Database  
-[wid.world](wid.world)    
+[wid.world](htpp://wid.world)    
 <img src="imagens/wid.png" width="400" height="250">
