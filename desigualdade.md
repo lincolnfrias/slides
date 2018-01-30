@@ -1,5 +1,5 @@
 
-### A desigualdade social como problema
+### A desigualdade social
 Lincoln Frias
 
 ---
