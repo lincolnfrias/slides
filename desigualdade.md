@@ -88,3 +88,12 @@ Quando há acúmulo de vantagens (na família, em uma cidade, em uma empresa), e
 World Wealth & Income Database  
 [wid.world](http://wid.world)    
 <img src="imagens/wid.png" width="400" height="250">
+
+---
+
+### Outras perguntas
+
+<br>
+
+- por que alguns países são tão desiguais?
+- como reduzir a desigualdade? 
