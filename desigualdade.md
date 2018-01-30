@@ -50,7 +50,7 @@ Desigualdade e pobreza são acontecimentos <font color="red">independentes</font
 
 ---
 
-Nem toda desigualdade é errada   
+Nem toda desigualdade é errada.   
 
 ---
 
