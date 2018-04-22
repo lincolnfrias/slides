@@ -172,17 +172,18 @@ body {
 
 .reveal table th,
 .reveal table td {
-  text-align: left;
+  text-align: right;
   padding: 0.2em 0.5em 0.2em 0.5em;
-  border-bottom: 1px solid; }
+  border-bottom: 1px solid; 
+}
 
-.reveal table th[align="center"],
+/* .reveal table th[align="center"],
 .reveal table td[align="center"] {
   text-align: center; }
 
 .reveal table th[align="right"],
 .reveal table td[align="right"] {
-  text-align: right; }
+  text-align: right; } */
 
 .reveal table tbody tr:last-child th,
 .reveal table tbody tr:last-child td {
@@ -273,3 +274,4 @@ body {
   text-align: justify;
   font-size: 8px;
 }
+
